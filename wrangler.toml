@@ -1,0 +1,6 @@
+name = "alaska-fish-price"
+main = "src/index.ts"
+compatibility_date = "2024-04-05"
+
+[triggers]
+crons = ["0 */6 * * *"] # Run every 6 hours (4 times a day)

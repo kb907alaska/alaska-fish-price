@@ -1,0 +1,53 @@
+{
+  "updatedAt": "2026-04-27T19:36:13.559Z",
+  "sources": [
+    "ADF&G API",
+    "NOAA REST Endpoint",
+    "ASMI PDF Parser",
+    "UB Market Index"
+  ],
+  "data": [
+    {
+      "id": "sockeye",
+      "name": "Sockeye Salmon",
+      "exVesselPriceUSD": 0.92,
+      "trend": "+2.1%"
+    },
+    {
+      "id": "pink",
+      "name": "Pink Salmon",
+      "exVesselPriceUSD": 0.31,
+      "trend": "-0.5%"
+    },
+    {
+      "id": "chum",
+      "name": "Chum Salmon",
+      "exVesselPriceUSD": 0.47,
+      "trend": "+1.2%"
+    },
+    {
+      "id": "chinook",
+      "name": "Chinook Salmon",
+      "exVesselPriceUSD": 5.95,
+      "trend": "+4.5%"
+    },
+    {
+      "id": "halibut",
+      "name": "Pacific Halibut",
+      "exVesselPriceUSD": 6.33,
+      "trend": "-1.1%"
+    },
+    {
+      "id": "pollock",
+      "name": "Walleye Pollock",
+      "exVesselPriceUSD": 0.18,
+      "trend": "0.0%"
+    },
+    {
+      "id": "sablefish",
+      "name": "Sablefish (Black Cod)",
+      "exVesselPriceUSD": 2.99,
+      "trend": "+5.4%"
+    }
+  ]
+}

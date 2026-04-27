@@ -1,0 +1,1487 @@
+[
+  {
+    "year": 2000,
+    "species": [
+      {
+        "id": "sockeye",
+        "name": "Sockeye Salmon",
+        "exVesselPriceUSD": 1.1
+      },
+      {
+        "id": "pink",
+        "name": "Pink Salmon",
+        "exVesselPriceUSD": 0.22
+      },
+      {
+        "id": "chum",
+        "name": "Chum Salmon",
+        "exVesselPriceUSD": 0.46
+      },
+      {
+        "id": "chinook",
+        "name": "Chinook Salmon",
+        "exVesselPriceUSD": 5.39
+      },
+      {
+        "id": "coho",
+        "name": "Coho Salmon",
+        "exVesselPriceUSD": 0.94
+      },
+      {
+        "id": "halibut",
+        "name": "Pacific Halibut",
+        "exVesselPriceUSD": 3.18
+      },
+      {
+        "id": "sablefish",
+        "name": "Sablefish (Black Cod)",
+        "exVesselPriceUSD": 2.35
+      },
+      {
+        "id": "pollock",
+        "name": "Walleye Pollock",
+        "exVesselPriceUSD": 0.14
+      },
+      {
+        "id": "king_crab",
+        "name": "Red King Crab",
+        "exVesselPriceUSD": 5.33
+      },
+      {
+        "id": "snow_crab",
+        "name": "Snow Crab",
+        "exVesselPriceUSD": 2.29
+      }
+    ]
+  },
+  {
+    "year": 2001,
+    "species": [
+      {
+        "id": "sockeye",
+        "name": "Sockeye Salmon",
+        "exVesselPriceUSD": 1.24
+      },
+      {
+        "id": "pink",
+        "name": "Pink Salmon",
+        "exVesselPriceUSD": 0.39
+      },
+      {
+        "id": "chum",
+        "name": "Chum Salmon",
+        "exVesselPriceUSD": 0.54
+      },
+      {
+        "id": "chinook",
+        "name": "Chinook Salmon",
+        "exVesselPriceUSD": 4.54
+      },
+      {
+        "id": "coho",
+        "name": "Coho Salmon",
+        "exVesselPriceUSD": 1.5
+      },
+      {
+        "id": "halibut",
+        "name": "Pacific Halibut",
+        "exVesselPriceUSD": 4.1
+      },
+      {
+        "id": "sablefish",
+        "name": "Sablefish (Black Cod)",
+        "exVesselPriceUSD": 2.63
+      },
+      {
+        "id": "pollock",
+        "name": "Walleye Pollock",
+        "exVesselPriceUSD": 0.17
+      },
+      {
+        "id": "king_crab",
+        "name": "Red King Crab",
+        "exVesselPriceUSD": 7.77
+      },
+      {
+        "id": "snow_crab",
+        "name": "Snow Crab",
+        "exVesselPriceUSD": 1.21
+      }
+    ]
+  },
+  {
+    "year": 2002,
+    "species": [
+      {
+        "id": "sockeye",
+        "name": "Sockeye Salmon",
+        "exVesselPriceUSD": 1.23
+      },
+      {
+        "id": "pink",
+        "name": "Pink Salmon",
+        "exVesselPriceUSD": 0.23
+      },
+      {
+        "id": "chum",
+        "name": "Chum Salmon",
+        "exVesselPriceUSD": 0.56
+      },
+      {
+        "id": "chinook",
+        "name": "Chinook Salmon",
+        "exVesselPriceUSD": 5.57
+      },
+      {
+        "id": "coho",
+        "name": "Coho Salmon",
+        "exVesselPriceUSD": 1.44
+      },
+      {
+        "id": "halibut",
+        "name": "Pacific Halibut",
+        "exVesselPriceUSD": 4.48
+      },
+      {
+        "id": "sablefish",
+        "name": "Sablefish (Black Cod)",
+        "exVesselPriceUSD": 4.27
+      },
+      {
+        "id": "pollock",
+        "name": "Walleye Pollock",
+        "exVesselPriceUSD": 0.19
+      },
+      {
+        "id": "king_crab",
+        "name": "Red King Crab",
+        "exVesselPriceUSD": 6.26
+      },
+      {
+        "id": "snow_crab",
+        "name": "Snow Crab",
+        "exVesselPriceUSD": 2.01
+      }
+    ]
+  },
+  {
+    "year": 2003,
+    "species": [
+      {
+        "id": "sockeye",
+        "name": "Sockeye Salmon",
+        "exVesselPriceUSD": 0.97
+      },
+      {
+        "id": "pink",
+        "name": "Pink Salmon",
+        "exVesselPriceUSD": 0.23
+      },
+      {
+        "id": "chum",
+        "name": "Chum Salmon",
+        "exVesselPriceUSD": 0.69
+      },
+      {
+        "id": "chinook",
+        "name": "Chinook Salmon",
+        "exVesselPriceUSD": 4.18
+      },
+      {
+        "id": "coho",
+        "name": "Coho Salmon",
+        "exVesselPriceUSD": 1.02
+      },
+      {
+        "id": "halibut",
+        "name": "Pacific Halibut",
+        "exVesselPriceUSD": 4.05
+      },
+      {
+        "id": "sablefish",
+        "name": "Sablefish (Black Cod)",
+        "exVesselPriceUSD": 4
+      },
+      {
+        "id": "pollock",
+        "name": "Walleye Pollock",
+        "exVesselPriceUSD": 0.13
+      },
+      {
+        "id": "king_crab",
+        "name": "Red King Crab",
+        "exVesselPriceUSD": 8.3
+      },
+      {
+        "id": "snow_crab",
+        "name": "Snow Crab",
+        "exVesselPriceUSD": 3.13
+      }
+    ]
+  },
+  {
+    "year": 2004,
+    "species": [
+      {
+        "id": "sockeye",
+        "name": "Sockeye Salmon",
+        "exVesselPriceUSD": 1.14
+      },
+      {
+        "id": "pink",
+        "name": "Pink Salmon",
+        "exVesselPriceUSD": 0.39
+      },
+      {
+        "id": "chum",
+        "name": "Chum Salmon",
+        "exVesselPriceUSD": 0.78
+      },
+      {
+        "id": "chinook",
+        "name": "Chinook Salmon",
+        "exVesselPriceUSD": 4.88
+      },
+      {
+        "id": "coho",
+        "name": "Coho Salmon",
+        "exVesselPriceUSD": 1.35
+      },
+      {
+        "id": "halibut",
+        "name": "Pacific Halibut",
+        "exVesselPriceUSD": 5.03
+      },
+      {
+        "id": "sablefish",
+        "name": "Sablefish (Black Cod)",
+        "exVesselPriceUSD": 2.92
+      },
+      {
+        "id": "pollock",
+        "name": "Walleye Pollock",
+        "exVesselPriceUSD": 0.2
+      },
+      {
+        "id": "king_crab",
+        "name": "Red King Crab",
+        "exVesselPriceUSD": 9.05
+      },
+      {
+        "id": "snow_crab",
+        "name": "Snow Crab",
+        "exVesselPriceUSD": 2.54
+      }
+    ]
+  },
+  {
+    "year": 2005,
+    "species": [
+      {
+        "id": "sockeye",
+        "name": "Sockeye Salmon",
+        "exVesselPriceUSD": 1.06
+      },
+      {
+        "id": "pink",
+        "name": "Pink Salmon",
+        "exVesselPriceUSD": 0.42
+      },
+      {
+        "id": "chum",
+        "name": "Chum Salmon",
+        "exVesselPriceUSD": 0.48
+      },
+      {
+        "id": "chinook",
+        "name": "Chinook Salmon",
+        "exVesselPriceUSD": 5.29
+      },
+      {
+        "id": "coho",
+        "name": "Coho Salmon",
+        "exVesselPriceUSD": 1.45
+      },
+      {
+        "id": "halibut",
+        "name": "Pacific Halibut",
+        "exVesselPriceUSD": 5.47
+      },
+      {
+        "id": "sablefish",
+        "name": "Sablefish (Black Cod)",
+        "exVesselPriceUSD": 2.97
+      },
+      {
+        "id": "pollock",
+        "name": "Walleye Pollock",
+        "exVesselPriceUSD": 0.2
+      },
+      {
+        "id": "king_crab",
+        "name": "Red King Crab",
+        "exVesselPriceUSD": 10.23
+      },
+      {
+        "id": "snow_crab",
+        "name": "Snow Crab",
+        "exVesselPriceUSD": 1.92
+      }
+    ]
+  },
+  {
+    "year": 2006,
+    "species": [
+      {
+        "id": "sockeye",
+        "name": "Sockeye Salmon",
+        "exVesselPriceUSD": 0.98
+      },
+      {
+        "id": "pink",
+        "name": "Pink Salmon",
+        "exVesselPriceUSD": 0.47
+      },
+      {
+        "id": "chum",
+        "name": "Chum Salmon",
+        "exVesselPriceUSD": 0.7
+      },
+      {
+        "id": "chinook",
+        "name": "Chinook Salmon",
+        "exVesselPriceUSD": 4.77
+      },
+      {
+        "id": "coho",
+        "name": "Coho Salmon",
+        "exVesselPriceUSD": 1.76
+      },
+      {
+        "id": "halibut",
+        "name": "Pacific Halibut",
+        "exVesselPriceUSD": 5.77
+      },
+      {
+        "id": "sablefish",
+        "name": "Sablefish (Black Cod)",
+        "exVesselPriceUSD": 3.8
+      },
+      {
+        "id": "pollock",
+        "name": "Walleye Pollock",
+        "exVesselPriceUSD": 0.18
+      },
+      {
+        "id": "king_crab",
+        "name": "Red King Crab",
+        "exVesselPriceUSD": 8.81
+      },
+      {
+        "id": "snow_crab",
+        "name": "Snow Crab",
+        "exVesselPriceUSD": 2.23
+      }
+    ]
+  },
+  {
+    "year": 2007,
+    "species": [
+      {
+        "id": "sockeye",
+        "name": "Sockeye Salmon",
+        "exVesselPriceUSD": 1.33
+      },
+      {
+        "id": "pink",
+        "name": "Pink Salmon",
+        "exVesselPriceUSD": 0.31
+      },
+      {
+        "id": "chum",
+        "name": "Chum Salmon",
+        "exVesselPriceUSD": 0.86
+      },
+      {
+        "id": "chinook",
+        "name": "Chinook Salmon",
+        "exVesselPriceUSD": 5.04
+      },
+      {
+        "id": "coho",
+        "name": "Coho Salmon",
+        "exVesselPriceUSD": 1.41
+      },
+      {
+        "id": "halibut",
+        "name": "Pacific Halibut",
+        "exVesselPriceUSD": 5.78
+      },
+      {
+        "id": "sablefish",
+        "name": "Sablefish (Black Cod)",
+        "exVesselPriceUSD": 3.51
+      },
+      {
+        "id": "pollock",
+        "name": "Walleye Pollock",
+        "exVesselPriceUSD": 0.21
+      },
+      {
+        "id": "king_crab",
+        "name": "Red King Crab",
+        "exVesselPriceUSD": 9.53
+      },
+      {
+        "id": "snow_crab",
+        "name": "Snow Crab",
+        "exVesselPriceUSD": 2.29
+      }
+    ]
+  },
+  {
+    "year": 2008,
+    "species": [
+      {
+        "id": "sockeye",
+        "name": "Sockeye Salmon",
+        "exVesselPriceUSD": 1.6
+      },
+      {
+        "id": "pink",
+        "name": "Pink Salmon",
+        "exVesselPriceUSD": 0.44
+      },
+      {
+        "id": "chum",
+        "name": "Chum Salmon",
+        "exVesselPriceUSD": 0.92
+      },
+      {
+        "id": "chinook",
+        "name": "Chinook Salmon",
+        "exVesselPriceUSD": 4.71
+      },
+      {
+        "id": "coho",
+        "name": "Coho Salmon",
+        "exVesselPriceUSD": 1.21
+      },
+      {
+        "id": "halibut",
+        "name": "Pacific Halibut",
+        "exVesselPriceUSD": 4.64
+      },
+      {
+        "id": "sablefish",
+        "name": "Sablefish (Black Cod)",
+        "exVesselPriceUSD": 3.74
+      },
+      {
+        "id": "pollock",
+        "name": "Walleye Pollock",
+        "exVesselPriceUSD": 0.14
+      },
+      {
+        "id": "king_crab",
+        "name": "Red King Crab",
+        "exVesselPriceUSD": 6.82
+      },
+      {
+        "id": "snow_crab",
+        "name": "Snow Crab",
+        "exVesselPriceUSD": 4.05
+      }
+    ]
+  },
+  {
+    "year": 2009,
+    "species": [
+      {
+        "id": "sockeye",
+        "name": "Sockeye Salmon",
+        "exVesselPriceUSD": 1.63
+      },
+      {
+        "id": "pink",
+        "name": "Pink Salmon",
+        "exVesselPriceUSD": 0.37
+      },
+      {
+        "id": "chum",
+        "name": "Chum Salmon",
+        "exVesselPriceUSD": 0.92
+      },
+      {
+        "id": "chinook",
+        "name": "Chinook Salmon",
+        "exVesselPriceUSD": 4.91
+      },
+      {
+        "id": "coho",
+        "name": "Coho Salmon",
+        "exVesselPriceUSD": 1.14
+      },
+      {
+        "id": "halibut",
+        "name": "Pacific Halibut",
+        "exVesselPriceUSD": 4.13
+      },
+      {
+        "id": "sablefish",
+        "name": "Sablefish (Black Cod)",
+        "exVesselPriceUSD": 4.82
+      },
+      {
+        "id": "pollock",
+        "name": "Walleye Pollock",
+        "exVesselPriceUSD": 0.2
+      },
+      {
+        "id": "king_crab",
+        "name": "Red King Crab",
+        "exVesselPriceUSD": 12.12
+      },
+      {
+        "id": "snow_crab",
+        "name": "Snow Crab",
+        "exVesselPriceUSD": 1.82
+      }
+    ]
+  },
+  {
+    "year": 2010,
+    "species": [
+      {
+        "id": "sockeye",
+        "name": "Sockeye Salmon",
+        "exVesselPriceUSD": 1.39
+      },
+      {
+        "id": "pink",
+        "name": "Pink Salmon",
+        "exVesselPriceUSD": 0.49
+      },
+      {
+        "id": "chum",
+        "name": "Chum Salmon",
+        "exVesselPriceUSD": 0.77
+      },
+      {
+        "id": "chinook",
+        "name": "Chinook Salmon",
+        "exVesselPriceUSD": 5.87
+      },
+      {
+        "id": "coho",
+        "name": "Coho Salmon",
+        "exVesselPriceUSD": 1.55
+      },
+      {
+        "id": "halibut",
+        "name": "Pacific Halibut",
+        "exVesselPriceUSD": 3.84
+      },
+      {
+        "id": "sablefish",
+        "name": "Sablefish (Black Cod)",
+        "exVesselPriceUSD": 3.32
+      },
+      {
+        "id": "pollock",
+        "name": "Walleye Pollock",
+        "exVesselPriceUSD": 0.16
+      },
+      {
+        "id": "king_crab",
+        "name": "Red King Crab",
+        "exVesselPriceUSD": 10.86
+      },
+      {
+        "id": "snow_crab",
+        "name": "Snow Crab",
+        "exVesselPriceUSD": 4.33
+      }
+    ]
+  },
+  {
+    "year": 2011,
+    "species": [
+      {
+        "id": "sockeye",
+        "name": "Sockeye Salmon",
+        "exVesselPriceUSD": 1.36
+      },
+      {
+        "id": "pink",
+        "name": "Pink Salmon",
+        "exVesselPriceUSD": 0.51
+      },
+      {
+        "id": "chum",
+        "name": "Chum Salmon",
+        "exVesselPriceUSD": 0.62
+      },
+      {
+        "id": "chinook",
+        "name": "Chinook Salmon",
+        "exVesselPriceUSD": 5.71
+      },
+      {
+        "id": "coho",
+        "name": "Coho Salmon",
+        "exVesselPriceUSD": 1.84
+      },
+      {
+        "id": "halibut",
+        "name": "Pacific Halibut",
+        "exVesselPriceUSD": 3.65
+      },
+      {
+        "id": "sablefish",
+        "name": "Sablefish (Black Cod)",
+        "exVesselPriceUSD": 5.54
+      },
+      {
+        "id": "pollock",
+        "name": "Walleye Pollock",
+        "exVesselPriceUSD": 0.21
+      },
+      {
+        "id": "king_crab",
+        "name": "Red King Crab",
+        "exVesselPriceUSD": 11.77
+      },
+      {
+        "id": "snow_crab",
+        "name": "Snow Crab",
+        "exVesselPriceUSD": 2.08
+      }
+    ]
+  },
+  {
+    "year": 2012,
+    "species": [
+      {
+        "id": "sockeye",
+        "name": "Sockeye Salmon",
+        "exVesselPriceUSD": 1.7
+      },
+      {
+        "id": "pink",
+        "name": "Pink Salmon",
+        "exVesselPriceUSD": 0.29
+      },
+      {
+        "id": "chum",
+        "name": "Chum Salmon",
+        "exVesselPriceUSD": 0.72
+      },
+      {
+        "id": "chinook",
+        "name": "Chinook Salmon",
+        "exVesselPriceUSD": 5.93
+      },
+      {
+        "id": "coho",
+        "name": "Coho Salmon",
+        "exVesselPriceUSD": 1.17
+      },
+      {
+        "id": "halibut",
+        "name": "Pacific Halibut",
+        "exVesselPriceUSD": 6.18
+      },
+      {
+        "id": "sablefish",
+        "name": "Sablefish (Black Cod)",
+        "exVesselPriceUSD": 3.58
+      },
+      {
+        "id": "pollock",
+        "name": "Walleye Pollock",
+        "exVesselPriceUSD": 0.16
+      },
+      {
+        "id": "king_crab",
+        "name": "Red King Crab",
+        "exVesselPriceUSD": 12.99
+      },
+      {
+        "id": "snow_crab",
+        "name": "Snow Crab",
+        "exVesselPriceUSD": 1.96
+      }
+    ]
+  },
+  {
+    "year": 2013,
+    "species": [
+      {
+        "id": "sockeye",
+        "name": "Sockeye Salmon",
+        "exVesselPriceUSD": 1.22
+      },
+      {
+        "id": "pink",
+        "name": "Pink Salmon",
+        "exVesselPriceUSD": 0.45
+      },
+      {
+        "id": "chum",
+        "name": "Chum Salmon",
+        "exVesselPriceUSD": 0.81
+      },
+      {
+        "id": "chinook",
+        "name": "Chinook Salmon",
+        "exVesselPriceUSD": 6.07
+      },
+      {
+        "id": "coho",
+        "name": "Coho Salmon",
+        "exVesselPriceUSD": 1.83
+      },
+      {
+        "id": "halibut",
+        "name": "Pacific Halibut",
+        "exVesselPriceUSD": 6.62
+      },
+      {
+        "id": "sablefish",
+        "name": "Sablefish (Black Cod)",
+        "exVesselPriceUSD": 4.88
+      },
+      {
+        "id": "pollock",
+        "name": "Walleye Pollock",
+        "exVesselPriceUSD": 0.21
+      },
+      {
+        "id": "king_crab",
+        "name": "Red King Crab",
+        "exVesselPriceUSD": 7.69
+      },
+      {
+        "id": "snow_crab",
+        "name": "Snow Crab",
+        "exVesselPriceUSD": 4.03
+      }
+    ]
+  },
+  {
+    "year": 2014,
+    "species": [
+      {
+        "id": "sockeye",
+        "name": "Sockeye Salmon",
+        "exVesselPriceUSD": 1.38
+      },
+      {
+        "id": "pink",
+        "name": "Pink Salmon",
+        "exVesselPriceUSD": 0.26
+      },
+      {
+        "id": "chum",
+        "name": "Chum Salmon",
+        "exVesselPriceUSD": 0.76
+      },
+      {
+        "id": "chinook",
+        "name": "Chinook Salmon",
+        "exVesselPriceUSD": 6.35
+      },
+      {
+        "id": "coho",
+        "name": "Coho Salmon",
+        "exVesselPriceUSD": 1.44
+      },
+      {
+        "id": "halibut",
+        "name": "Pacific Halibut",
+        "exVesselPriceUSD": 6.15
+      },
+      {
+        "id": "sablefish",
+        "name": "Sablefish (Black Cod)",
+        "exVesselPriceUSD": 5.68
+      },
+      {
+        "id": "pollock",
+        "name": "Walleye Pollock",
+        "exVesselPriceUSD": 0.22
+      },
+      {
+        "id": "king_crab",
+        "name": "Red King Crab",
+        "exVesselPriceUSD": 11.03
+      },
+      {
+        "id": "snow_crab",
+        "name": "Snow Crab",
+        "exVesselPriceUSD": 2.36
+      }
+    ]
+  },
+  {
+    "year": 2015,
+    "species": [
+      {
+        "id": "sockeye",
+        "name": "Sockeye Salmon",
+        "exVesselPriceUSD": 1.26
+      },
+      {
+        "id": "pink",
+        "name": "Pink Salmon",
+        "exVesselPriceUSD": 0.34
+      },
+      {
+        "id": "chum",
+        "name": "Chum Salmon",
+        "exVesselPriceUSD": 0.87
+      },
+      {
+        "id": "chinook",
+        "name": "Chinook Salmon",
+        "exVesselPriceUSD": 6.49
+      },
+      {
+        "id": "coho",
+        "name": "Coho Salmon",
+        "exVesselPriceUSD": 1.95
+      },
+      {
+        "id": "halibut",
+        "name": "Pacific Halibut",
+        "exVesselPriceUSD": 4.19
+      },
+      {
+        "id": "sablefish",
+        "name": "Sablefish (Black Cod)",
+        "exVesselPriceUSD": 4.06
+      },
+      {
+        "id": "pollock",
+        "name": "Walleye Pollock",
+        "exVesselPriceUSD": 0.23
+      },
+      {
+        "id": "king_crab",
+        "name": "Red King Crab",
+        "exVesselPriceUSD": 9.98
+      },
+      {
+        "id": "snow_crab",
+        "name": "Snow Crab",
+        "exVesselPriceUSD": 3.19
+      }
+    ]
+  },
+  {
+    "year": 2016,
+    "species": [
+      {
+        "id": "sockeye",
+        "name": "Sockeye Salmon",
+        "exVesselPriceUSD": 1.48
+      },
+      {
+        "id": "pink",
+        "name": "Pink Salmon",
+        "exVesselPriceUSD": 0.34
+      },
+      {
+        "id": "chum",
+        "name": "Chum Salmon",
+        "exVesselPriceUSD": 0.86
+      },
+      {
+        "id": "chinook",
+        "name": "Chinook Salmon",
+        "exVesselPriceUSD": 6.01
+      },
+      {
+        "id": "coho",
+        "name": "Coho Salmon",
+        "exVesselPriceUSD": 1.5
+      },
+      {
+        "id": "halibut",
+        "name": "Pacific Halibut",
+        "exVesselPriceUSD": 5.19
+      },
+      {
+        "id": "sablefish",
+        "name": "Sablefish (Black Cod)",
+        "exVesselPriceUSD": 5.81
+      },
+      {
+        "id": "pollock",
+        "name": "Walleye Pollock",
+        "exVesselPriceUSD": 0.16
+      },
+      {
+        "id": "king_crab",
+        "name": "Red King Crab",
+        "exVesselPriceUSD": 10.27
+      },
+      {
+        "id": "snow_crab",
+        "name": "Snow Crab",
+        "exVesselPriceUSD": 4.74
+      }
+    ]
+  },
+  {
+    "year": 2017,
+    "species": [
+      {
+        "id": "sockeye",
+        "name": "Sockeye Salmon",
+        "exVesselPriceUSD": 1.56
+      },
+      {
+        "id": "pink",
+        "name": "Pink Salmon",
+        "exVesselPriceUSD": 0.44
+      },
+      {
+        "id": "chum",
+        "name": "Chum Salmon",
+        "exVesselPriceUSD": 0.87
+      },
+      {
+        "id": "chinook",
+        "name": "Chinook Salmon",
+        "exVesselPriceUSD": 6.85
+      },
+      {
+        "id": "coho",
+        "name": "Coho Salmon",
+        "exVesselPriceUSD": 1.38
+      },
+      {
+        "id": "halibut",
+        "name": "Pacific Halibut",
+        "exVesselPriceUSD": 6.12
+      },
+      {
+        "id": "sablefish",
+        "name": "Sablefish (Black Cod)",
+        "exVesselPriceUSD": 4.1
+      },
+      {
+        "id": "pollock",
+        "name": "Walleye Pollock",
+        "exVesselPriceUSD": 0.26
+      },
+      {
+        "id": "king_crab",
+        "name": "Red King Crab",
+        "exVesselPriceUSD": 10.7
+      },
+      {
+        "id": "snow_crab",
+        "name": "Snow Crab",
+        "exVesselPriceUSD": 5.03
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "species": [
+      {
+        "id": "sockeye",
+        "name": "Sockeye Salmon",
+        "exVesselPriceUSD": 1.81
+      },
+      {
+        "id": "pink",
+        "name": "Pink Salmon",
+        "exVesselPriceUSD": 0.47
+      },
+      {
+        "id": "chum",
+        "name": "Chum Salmon",
+        "exVesselPriceUSD": 0.94
+      },
+      {
+        "id": "chinook",
+        "name": "Chinook Salmon",
+        "exVesselPriceUSD": 5.76
+      },
+      {
+        "id": "coho",
+        "name": "Coho Salmon",
+        "exVesselPriceUSD": 1.92
+      },
+      {
+        "id": "halibut",
+        "name": "Pacific Halibut",
+        "exVesselPriceUSD": 4.6
+      },
+      {
+        "id": "sablefish",
+        "name": "Sablefish (Black Cod)",
+        "exVesselPriceUSD": 4.07
+      },
+      {
+        "id": "pollock",
+        "name": "Walleye Pollock",
+        "exVesselPriceUSD": 0.24
+      },
+      {
+        "id": "king_crab",
+        "name": "Red King Crab",
+        "exVesselPriceUSD": 12.25
+      },
+      {
+        "id": "snow_crab",
+        "name": "Snow Crab",
+        "exVesselPriceUSD": 2.23
+      }
+    ]
+  },
+  {
+    "year": 2019,
+    "species": [
+      {
+        "id": "sockeye",
+        "name": "Sockeye Salmon",
+        "exVesselPriceUSD": 1.51
+      },
+      {
+        "id": "pink",
+        "name": "Pink Salmon",
+        "exVesselPriceUSD": 0.44
+      },
+      {
+        "id": "chum",
+        "name": "Chum Salmon",
+        "exVesselPriceUSD": 1.08
+      },
+      {
+        "id": "chinook",
+        "name": "Chinook Salmon",
+        "exVesselPriceUSD": 7.51
+      },
+      {
+        "id": "coho",
+        "name": "Coho Salmon",
+        "exVesselPriceUSD": 1.66
+      },
+      {
+        "id": "halibut",
+        "name": "Pacific Halibut",
+        "exVesselPriceUSD": 5.04
+      },
+      {
+        "id": "sablefish",
+        "name": "Sablefish (Black Cod)",
+        "exVesselPriceUSD": 5.08
+      },
+      {
+        "id": "pollock",
+        "name": "Walleye Pollock",
+        "exVesselPriceUSD": 0.23
+      },
+      {
+        "id": "king_crab",
+        "name": "Red King Crab",
+        "exVesselPriceUSD": 12.38
+      },
+      {
+        "id": "snow_crab",
+        "name": "Snow Crab",
+        "exVesselPriceUSD": 4.91
+      }
+    ]
+  },
+  {
+    "year": 2020,
+    "species": [
+      {
+        "id": "sockeye",
+        "name": "Sockeye Salmon",
+        "exVesselPriceUSD": 1.38
+      },
+      {
+        "id": "pink",
+        "name": "Pink Salmon",
+        "exVesselPriceUSD": 0.37
+      },
+      {
+        "id": "chum",
+        "name": "Chum Salmon",
+        "exVesselPriceUSD": 0.84
+      },
+      {
+        "id": "chinook",
+        "name": "Chinook Salmon",
+        "exVesselPriceUSD": 5.22
+      },
+      {
+        "id": "coho",
+        "name": "Coho Salmon",
+        "exVesselPriceUSD": 1.16
+      },
+      {
+        "id": "halibut",
+        "name": "Pacific Halibut",
+        "exVesselPriceUSD": 4.44
+      },
+      {
+        "id": "sablefish",
+        "name": "Sablefish (Black Cod)",
+        "exVesselPriceUSD": 4.55
+      },
+      {
+        "id": "pollock",
+        "name": "Walleye Pollock",
+        "exVesselPriceUSD": 0.17
+      },
+      {
+        "id": "king_crab",
+        "name": "Red King Crab",
+        "exVesselPriceUSD": 8.58
+      },
+      {
+        "id": "snow_crab",
+        "name": "Snow Crab",
+        "exVesselPriceUSD": 2.18
+      }
+    ]
+  },
+  {
+    "year": 2021,
+    "species": [
+      {
+        "id": "sockeye",
+        "name": "Sockeye Salmon",
+        "exVesselPriceUSD": 1.73
+      },
+      {
+        "id": "pink",
+        "name": "Pink Salmon",
+        "exVesselPriceUSD": 0.51
+      },
+      {
+        "id": "chum",
+        "name": "Chum Salmon",
+        "exVesselPriceUSD": 1.03
+      },
+      {
+        "id": "chinook",
+        "name": "Chinook Salmon",
+        "exVesselPriceUSD": 7
+      },
+      {
+        "id": "coho",
+        "name": "Coho Salmon",
+        "exVesselPriceUSD": 1.68
+      },
+      {
+        "id": "halibut",
+        "name": "Pacific Halibut",
+        "exVesselPriceUSD": 6.43
+      },
+      {
+        "id": "sablefish",
+        "name": "Sablefish (Black Cod)",
+        "exVesselPriceUSD": 5.6
+      },
+      {
+        "id": "pollock",
+        "name": "Walleye Pollock",
+        "exVesselPriceUSD": 0.25
+      },
+      {
+        "id": "king_crab",
+        "name": "Red King Crab",
+        "exVesselPriceUSD": 14.66
+      },
+      {
+        "id": "snow_crab",
+        "name": "Snow Crab",
+        "exVesselPriceUSD": 4.05
+      }
+    ]
+  },
+  {
+    "year": 2022,
+    "species": [
+      {
+        "id": "sockeye",
+        "name": "Sockeye Salmon",
+        "exVesselPriceUSD": 1.57
+      },
+      {
+        "id": "pink",
+        "name": "Pink Salmon",
+        "exVesselPriceUSD": 0.45
+      },
+      {
+        "id": "chum",
+        "name": "Chum Salmon",
+        "exVesselPriceUSD": 0.96
+      },
+      {
+        "id": "chinook",
+        "name": "Chinook Salmon",
+        "exVesselPriceUSD": 6.13
+      },
+      {
+        "id": "coho",
+        "name": "Coho Salmon",
+        "exVesselPriceUSD": 2.04
+      },
+      {
+        "id": "halibut",
+        "name": "Pacific Halibut",
+        "exVesselPriceUSD": 5.47
+      },
+      {
+        "id": "sablefish",
+        "name": "Sablefish (Black Cod)",
+        "exVesselPriceUSD": 4.81
+      },
+      {
+        "id": "pollock",
+        "name": "Walleye Pollock",
+        "exVesselPriceUSD": 0.27
+      },
+      {
+        "id": "king_crab",
+        "name": "Red King Crab",
+        "exVesselPriceUSD": 12.65
+      },
+      {
+        "id": "snow_crab",
+        "name": "Snow Crab",
+        "exVesselPriceUSD": 0
+      }
+    ]
+  },
+  {
+    "year": 2023,
+    "species": [
+      {
+        "id": "sockeye",
+        "name": "Sockeye Salmon",
+        "exVesselPriceUSD": 0.5
+      },
+      {
+        "id": "pink",
+        "name": "Pink Salmon",
+        "exVesselPriceUSD": 0.62
+      },
+      {
+        "id": "chum",
+        "name": "Chum Salmon",
+        "exVesselPriceUSD": 0.81
+      },
+      {
+        "id": "chinook",
+        "name": "Chinook Salmon",
+        "exVesselPriceUSD": 7.06
+      },
+      {
+        "id": "coho",
+        "name": "Coho Salmon",
+        "exVesselPriceUSD": 1.5
+      },
+      {
+        "id": "halibut",
+        "name": "Pacific Halibut",
+        "exVesselPriceUSD": 6.58
+      },
+      {
+        "id": "sablefish",
+        "name": "Sablefish (Black Cod)",
+        "exVesselPriceUSD": 4.8
+      },
+      {
+        "id": "pollock",
+        "name": "Walleye Pollock",
+        "exVesselPriceUSD": 0.26
+      },
+      {
+        "id": "king_crab",
+        "name": "Red King Crab",
+        "exVesselPriceUSD": 14.99
+      },
+      {
+        "id": "snow_crab",
+        "name": "Snow Crab",
+        "exVesselPriceUSD": 0
+      }
+    ]
+  },
+  {
+    "year": 2024,
+    "species": [
+      {
+        "id": "sockeye",
+        "name": "Sockeye Salmon",
+        "exVesselPriceUSD": 1.49
+      },
+      {
+        "id": "pink",
+        "name": "Pink Salmon",
+        "exVesselPriceUSD": 0.49
+      },
+      {
+        "id": "chum",
+        "name": "Chum Salmon",
+        "exVesselPriceUSD": 1.11
+      },
+      {
+        "id": "chinook",
+        "name": "Chinook Salmon",
+        "exVesselPriceUSD": 7.06
+      },
+      {
+        "id": "coho",
+        "name": "Coho Salmon",
+        "exVesselPriceUSD": 1.86
+      },
+      {
+        "id": "halibut",
+        "name": "Pacific Halibut",
+        "exVesselPriceUSD": 6.17
+      },
+      {
+        "id": "sablefish",
+        "name": "Sablefish (Black Cod)",
+        "exVesselPriceUSD": 6.01
+      },
+      {
+        "id": "pollock",
+        "name": "Walleye Pollock",
+        "exVesselPriceUSD": 0.19
+      },
+      {
+        "id": "king_crab",
+        "name": "Red King Crab",
+        "exVesselPriceUSD": 15.29
+      },
+      {
+        "id": "snow_crab",
+        "name": "Snow Crab",
+        "exVesselPriceUSD": 0
+      }
+    ]
+  },
+  {
+    "year": 2025,
+    "species": [
+      {
+        "id": "sockeye",
+        "name": "Sockeye Salmon",
+        "exVesselPriceUSD": 1.73
+      },
+      {
+        "id": "pink",
+        "name": "Pink Salmon",
+        "exVesselPriceUSD": 0.37
+      },
+      {
+        "id": "chum",
+        "name": "Chum Salmon",
+        "exVesselPriceUSD": 1.02
+      },
+      {
+        "id": "chinook",
+        "name": "Chinook Salmon",
+        "exVesselPriceUSD": 6.79
+      },
+      {
+        "id": "coho",
+        "name": "Coho Salmon",
+        "exVesselPriceUSD": 1.94
+      },
+      {
+        "id": "halibut",
+        "name": "Pacific Halibut",
+        "exVesselPriceUSD": 7.87
+      },
+      {
+        "id": "sablefish",
+        "name": "Sablefish (Black Cod)",
+        "exVesselPriceUSD": 5.38
+      },
+      {
+        "id": "pollock",
+        "name": "Walleye Pollock",
+        "exVesselPriceUSD": 0.22
+      },
+      {
+        "id": "king_crab",
+        "name": "Red King Crab",
+        "exVesselPriceUSD": 12.33
+      },
+      {
+        "id": "snow_crab",
+        "name": "Snow Crab",
+        "exVesselPriceUSD": 0
+      }
+    ]
+  },
+  {
+    "year": 2026,
+    "species": [
+      {
+        "id": "sockeye",
+        "name": "Sockeye Salmon",
+        "exVesselPriceUSD": 1.74
+      },
+      {
+        "id": "pink",
+        "name": "Pink Salmon",
+        "exVesselPriceUSD": 0.6
+      },
+      {
+        "id": "chum",
+        "name": "Chum Salmon",
+        "exVesselPriceUSD": 0.97
+      },
+      {
+        "id": "chinook",
+        "name": "Chinook Salmon",
+        "exVesselPriceUSD": 7.45
+      },
+      {
+        "id": "coho",
+        "name": "Coho Salmon",
+        "exVesselPriceUSD": 2.16
+      },
+      {
+        "id": "halibut",
+        "name": "Pacific Halibut",
+        "exVesselPriceUSD": 6.03
+      },
+      {
+        "id": "sablefish",
+        "name": "Sablefish (Black Cod)",
+        "exVesselPriceUSD": 5.37
+      },
+      {
+        "id": "pollock",
+        "name": "Walleye Pollock",
+        "exVesselPriceUSD": 0.25
+      },
+      {
+        "id": "king_crab",
+        "name": "Red King Crab",
+        "exVesselPriceUSD": 10.99
+      },
+      {
+        "id": "snow_crab",
+        "name": "Snow Crab",
+        "exVesselPriceUSD": 0
+      }
+    ]
+  }
+]
