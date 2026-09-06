@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-05T20:04:16.469Z",
+  "updatedAt": "2026-09-06T03:33:23.531Z",
   "sources": [
     "ADF&G API",
     "NOAA REST Endpoint",
@@ -10,7 +10,7 @@
     {
       "id": "sockeye",
       "name": "Sockeye Salmon",
-      "exVesselPriceUSD": 0.92,
+      "exVesselPriceUSD": 0.95,
       "trend": "+2.1%"
     },
     {
@@ -22,19 +22,19 @@
     {
       "id": "chum",
       "name": "Chum Salmon",
-      "exVesselPriceUSD": 0.48,
+      "exVesselPriceUSD": 0.52,
       "trend": "+1.2%"
     },
     {
       "id": "chinook",
       "name": "Chinook Salmon",
-      "exVesselPriceUSD": 5.72,
+      "exVesselPriceUSD": 5.7,
       "trend": "+4.5%"
     },
     {
       "id": "halibut",
       "name": "Pacific Halibut",
-      "exVesselPriceUSD": 6.46,
+      "exVesselPriceUSD": 6.44,
       "trend": "-1.1%"
     },
     {
@@ -46,7 +46,7 @@
     {
       "id": "sablefish",
       "name": "Sablefish (Black Cod)",
-      "exVesselPriceUSD": 2.98,
+      "exVesselPriceUSD": 2.91,
       "trend": "+5.4%"
     }
   ]
